@@ -1,4 +1,4 @@
-###  👋 안녕하세요~ 백엔드 개발자 꿈나무 안준 입니다!
+###  👋 안녕하세요~ 백엔드 개발자 안준 입니다!
 
 <!--
 **AhnJun11/AhnJun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
